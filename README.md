@@ -1,2 +1,2 @@
 # YiyiGranja
-App YiyiGranja
+Android app YiyiGranja
